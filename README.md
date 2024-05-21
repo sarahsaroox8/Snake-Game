@@ -45,6 +45,7 @@ To play the game, open the `index.html` file in your web browser:
 ```bash
 open index.html
 
+## Code Overview
 
 <!DOCTYPE html>
 <html lang="en">
