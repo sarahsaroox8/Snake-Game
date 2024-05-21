@@ -17,10 +17,13 @@ Check out the live demo of the game [here](#).
 
 ## Features
 
-- Dynamic game board using HTML5 Canvas.
-- Responsive design with CSS.
-- Basic game mechanics including snake movement, apple consumption, and collision detection.
-- Score display and game over screen.
+- **Dynamic Game Board**: Utilizes HTML5 Canvas to create a responsive game board.
+- **Snake Movement**: Allows for smooth and continuous movement of the snake.
+- **Apple Consumption**: The snake grows in size upon eating an apple.
+- **Collision Detection**: Detects collisions with walls and the snake's own body to end the game.
+- **Score Tracking**: Keeps track of the score and displays it on the game screen.
+- **Game Over Screen**: Displays a game over message with an option to restart.
+- **Responsive Design**: Ensures the game works well on different screen sizes.
 
 ## Installation
 
