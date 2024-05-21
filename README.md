@@ -53,7 +53,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 2. **Clone your forked repository**:
     ```bash
-    git clone https://github.com/your-username/snake-game.git
+    git clone https://github.com/sarahsaroox8/snake-game.git
     ```
 
 3. **Create a new branch**:
