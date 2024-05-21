@@ -14,7 +14,6 @@ This project is a simple implementation of the classic Snake game using HTML, CS
   - [style.css](#stylecss)
   - [script.js](#scriptjs)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -287,3 +286,38 @@ window.onload = () => {
 
         this.setNewPosition = function () {
             let newX = Math.round
+
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. **Fork the repository**: Click on the 'Fork' button at the top right corner of the repository page.
+
+2. **Clone your forked repository**:
+    ```bash
+    git clone https://github.com/your-username/snake-game.git
+    ```
+
+3. **Create a new branch**:
+    ```bash
+    git checkout -b feature-branch
+    ```
+
+4. **Make your changes**: Add your improvements or fixes.
+
+5. **Commit your changes**:
+    ```bash
+    git commit -m "Description of your changes"
+    ```
+
+6. **Push to your branch**:
+    ```bash
+    git push origin feature-branch
+    ```
+
+7. **Open a pull request**: Go to the original repository and click on the 'New pull request' button. Provide a clear description of your changes and any related issues.
+
+If you encounter any issues or have questions, feel free to open an issue on GitHub.
+
+Thank you for your contributions!
+
