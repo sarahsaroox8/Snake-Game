@@ -43,9 +43,12 @@ Check out the live demo of the game [here](#).
 
 To play the game, open the `index.html` file in your web browser:
 ```bash
+
 open index.html
 
 ## Code Overview
+index.html
+This file sets up the structure of the webpage, linking to the CSS and JavaScript files.
 
 <!DOCTYPE html>
 <html lang="en">
