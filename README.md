@@ -9,10 +9,6 @@ This project is a simple implementation of the classic Snake game using HTML, CS
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Overview](#code-overview)
-  - [index.html](#indexhtml)
-  - [style.css](#stylecss)
-  - [script.js](#scriptjs)
 - [Contributing](#contributing)
 
 ## Demo
@@ -44,10 +40,7 @@ To play the game, open the `index.html` file in your web browser:
 ```bash
 
 open index.html
-
-## Code Overview
-index.html
-This file sets up the structure of the webpage, linking to the CSS and JavaScript files.
+```
 
 ## Contributing
 
