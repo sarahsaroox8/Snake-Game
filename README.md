@@ -5,15 +5,10 @@ This project is a simple implementation of the classic Snake game using HTML, CS
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
-## Demo
-
-Check out the live demo of the game [here](#).
 
 ## Features
 
